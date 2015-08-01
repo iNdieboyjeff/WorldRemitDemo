@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="labelColor">@android:color/black</color>
+    <color name="actionBarColor">#25a9e1</color>
+    <color name="buttonBarColor">#5654bde8</color>
+</resources>

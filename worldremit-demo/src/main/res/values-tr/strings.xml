@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorldRemit Demo</string>
+    <string name="cancel">Iptal</string>
+    <string name="error">Hata</string>
+    <string name="defaultSendAmount">0.00</string>
+    <string name="hint_send_to">Ilgili kisiyi secmek icin tiklayin</string>
+    <string name="label_amount">Gönderilen tutarın</string>
+    <string name="label_currency">Gonderilmek istenen para birimi</string>
+    <string name="label_rec_amount">Teslim alinan tutar</string>
+    <string name="label_rec_currency">Teslim alinan para birimi</string>
+    <string name="label_send_to">Gonderilmek istenen kisi</string>
+    <string name="lblCalculate">Tutari hesapla</string>
+    <string name="lblSend">Gonder</string>
+    <string name="loadCurrencyError">Islem yapilabilinen para birimlerinin yuklenmesinde bir hata meydana geldi.</string>
+    <string name="loadReceiveAmountError">Yapmak istediginiz islemle ilgili bir hata meydana geldi.</string>
+    <string name="loadingCurrencies">Islem yapilabilinen para birimleri yukleniyor.</string>
+    <string name="loadingReceiveAmount">Alinan tutar hesaplaniyor</string>
+    <string name="moneySent">Isleminiz gerceklesmistir.</string>
+    <string name="ok">Tamam</string>
+    <string name="retry">Tekrar dene</string>
+    <string name="sendingMoney">Istediginiz tutar gonderilmistir</string>
+    <string name="success">Onaylandi</string>
+</resources>

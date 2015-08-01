@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WorldRemit Demo</string>
+    <string name="label_send_to">Send To:</string>
+    <string name="hint_send_to">Tap to Select Contact…</string>
+    <string name="label_currency">Send Currency:</string>
+    <string name="label_amount">Send Amount:</string>
+    <string name="label_rec_currency">Receive Currency:</string>
+    <string name="label_rec_amount">Receive Amount:</string>
+    <string name="lblCalculate">Calculate Amount</string>
+    <string name="lblSend">Send</string>
+    <string name="defaultSendAmount">0.00</string>
+    <string name="loadingCurrencies">Loading available currencies…</string>
+    <string name="loadingReceiveAmount">Calculating receive amount…</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="loadCurrencyError">There was a problem loading available currencies.\n\nWould you like to try again?</string>
+    <string name="loadReceiveAmountError">There was a problem with your request.\n\nWould you like to try again?</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="moneySent">Your transaction was successful.</string>
+    <string name="sendingMoney">Your money is being sent…</string>
+
+    <string name="replaceCurrency" translatable="false">[%s,.\s]</string>
+
+    <string name="API_currencies" translatable="false">https://wr-interview.herokuapp.com/api/currencies</string>
+    <string name="API_calculate" translatable="false">https://wr-interview.herokuapp.com/api/calculate?amount=%1$1.2f&amp;sendcurrency=%2$s&amp;receivecurrency=%3$s</string>
+    <string name="API_send" translatable="false">https://wr-interview.herokuapp.com/api/send</string>
+
+    <string-array name="pins" translatable="false">
+        <item>c2686c562793a3f6dc0fcbeb84ce88579cb0d420</item>
+    </string-array>
+</resources>
